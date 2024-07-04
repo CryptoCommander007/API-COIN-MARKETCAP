@@ -1,0 +1,23 @@
+{
+    "status": {
+        "timestamp": "2024-07-04T21:10:06.434Z",
+        "error_code": 0,
+        "error_message": null,
+        "elapsed": 412,
+        "credit_count": 1,
+        "notice": null
+    },
+    "data": {
+        "id": 1,
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "amount": 1,
+        "last_updated": "2024-07-04T21:09:00.000Z",
+        "quote": {
+            "CLP": {
+                "price": 54571104.00238649,
+                "last_updated": "2024-07-04T21:09:03.000Z"
+            }
+        }
+    }
+}
